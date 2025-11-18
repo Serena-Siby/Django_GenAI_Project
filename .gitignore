@@ -1,0 +1,10 @@
+# Common Python/Django files to ignore
+__pycache__/
+*.pyc
+
+# SQLite Database (Adjust path if needed, usually in the project root)
+games/*.sqlite3
+*.sqlite3
+
+# IDE files (e.g., PyCharm settings)
+.idea/
